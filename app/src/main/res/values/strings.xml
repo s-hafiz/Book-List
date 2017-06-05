@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookList</string>
+    <string name="setting_label">Settings</string>
+    <string name="Details_view">Details</string>
+    <string name="setting">Settings</string>
+    <string name="settings_max_search_result_default">10</string>
+    <string name="settings_max_search_result_key">min_magnitude</string>
+    <string name="settings_max_search_result_label">Maximum Result</string>
+</resources>
